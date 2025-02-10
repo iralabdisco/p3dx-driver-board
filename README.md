@@ -3,7 +3,7 @@ An effort to reverse-engineer the Adept MobileRobots Pioneer-3DX's driver board.
 
 ## Rationale
 
-![p3dx](pics/p3dx.jpg)
+![p3dx](pics/p3dx.png)
 
 The [P3DX](https://www.generationrobots.com/media/Pioneer3DX-P3DX-RevA.pdf) is a nice, featureful, and self-contained robotics platform that was released sometime in the early '00s. We have three of those in our laboratory, and they're currently big red paperweights, as their SDK is no longer mantained; to my knowledge, the ROSARIA module that was used with ROS1 to control those robots has not been ported to ROS2, and their ARIA protocol is not documented.
 
@@ -19,7 +19,7 @@ The driver board has:
 - Connections for IR sensors and encoders;
 - Optional connections for a fan, a charger, and temperature sensors to be mounted on the motors;
 
-There are a couple of ICs on the board: two STM TD340 MOSFET drivers to control the H-Bridge, a couple of STM TS922I Op-Amps, and two TI SN74HC14 Schmitt-Trigger Inverters. Look under the `datasheet/` folder if you need to look something up.
+There are a couple of ICs on the board: two STM TD340 MOSFET drivers to control the H-Bridge, a couple of STM TS922I Op-Amps, and two TI SN74HC14 Schmitt-Trigger Inverters. Look under the [datasheets/](datasheets/) folder if you need to look something up.
 
 ## Disclaimers
 
