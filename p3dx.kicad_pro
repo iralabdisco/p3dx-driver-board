@@ -580,16 +580,12 @@
       "Root"
     ],
     [
+      "4a922283-64e3-444c-94b3-c33ac63de612",
+      "Left Driver"
+    ],
+    [
       "214798ba-40d8-4782-9dce-608d1e8a9650",
       "Right Driver"
-    ],
-    [
-      "bdc70cda-a671-42d4-a134-9865ae6b05b7",
-      "Buffers and Connectors"
-    ],
-    [
-      "7ea0ff43-a1f4-4a49-9747-538e7dbef5a8",
-      "Miscellanea"
     ]
   ],
   "text_variables": {}
