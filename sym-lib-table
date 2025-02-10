@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "td340")(type "KiCad")(uri "${KIPRJMOD}/td340.kicad_sym")(options "")(descr ""))
+  (lib (name "Pioneer")(type "KiCad")(uri "${KIPRJMOD}/Pioneer.kicad_sym")(options "")(descr ""))
+)
