@@ -9,6 +9,8 @@
 		(date "2025-02-10")
 		(rev "INDEV")
 		(company "CC0-1.0 License")
+		(comment 1 "ELC1587 - REV.H 11/03")
+		(comment 2 "Copyright (c) 2003 ActivMedia Robotics, LLC")
 	)
 	(lib_symbols)
 )
