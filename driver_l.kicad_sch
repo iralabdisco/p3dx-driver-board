@@ -5,7 +5,7 @@
 	(uuid "2820b665-7a3f-4df0-be44-a78543a8a581")
 	(paper "A4")
 	(title_block
-		(title "Left Driver")
+		(title "Right Driver")
 		(date "2025-02-20")
 		(rev "INDEV")
 		(company "CC0-1.0 License")
@@ -2250,7 +2250,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 118.11) (xy 196.85 118.11)
+			(xy 171.45 118.11) (xy 196.85 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2460,7 +2460,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 78.74) (xy 158.75 78.74)
+			(xy 171.45 78.74) (xy 158.75 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2470,7 +2470,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 128.27) (xy 267.97 148.59)
+			(xy 267.97 128.27) (xy 267.97 146.05)
 		)
 		(stroke
 			(width 0)
@@ -2710,7 +2710,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 78.74) (xy 165.1 118.11)
+			(xy 171.45 78.74) (xy 171.45 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4558,7 +4558,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 267.97 148.59 0)
+		(at 267.97 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4567,7 +4567,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cb1426d-f040-45cf-8625-4a184745e21a")
 		(property "Reference" "#PWR075"
-			(at 267.97 154.94 0)
+			(at 267.97 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4576,7 +4576,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 267.97 153.67 0)
+			(at 267.97 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4584,7 +4584,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 148.59 0)
+			(at 267.97 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4593,7 +4593,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 148.59 0)
+			(at 267.97 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4602,7 +4602,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 267.97 148.59 0)
+			(at 267.97 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6974,7 +6974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0318628-3fec-4c59-8801-729ff0ae297c")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 237.49 51.4349 0)
 			(effects
 				(font
@@ -7028,7 +7028,7 @@
 		(instances
 			(project "p3dx"
 				(path "/d0830b7c-35c9-4293-a1d2-d544311c2c60/4a922283-64e3-444c-94b3-c33ac63de612"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
