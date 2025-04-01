@@ -6699,7 +6699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2ea6316-afa8-4063-9891-2013dadb34b3")
-		(property "Reference" "R8"
+		(property "Reference" "R43"
 			(at 86.36 78.74 90)
 			(effects
 				(font
@@ -6751,7 +6751,7 @@
 		(instances
 			(project "p3dx"
 				(path "/d0830b7c-35c9-4293-a1d2-d544311c2c60/4a922283-64e3-444c-94b3-c33ac63de612"
-					(reference "R8")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -6767,7 +6767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5c71ffb-7e41-4768-9531-9b0643ae2467")
-		(property "Reference" "R7"
+		(property "Reference" "R42"
 			(at 86.36 68.58 90)
 			(effects
 				(font
@@ -6819,7 +6819,7 @@
 		(instances
 			(project "p3dx"
 				(path "/d0830b7c-35c9-4293-a1d2-d544311c2c60/4a922283-64e3-444c-94b3-c33ac63de612"
-					(reference "R7")
+					(reference "R42")
 					(unit 1)
 				)
 			)
