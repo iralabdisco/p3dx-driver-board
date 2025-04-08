@@ -594,12 +594,32 @@
       "Root"
     ],
     [
+      "f75459e2-b92b-4bac-89eb-f643e2d31d37",
+      "74HC00"
+    ],
+    [
       "4a922283-64e3-444c-94b3-c33ac63de612",
       "Right Driver"
     ],
     [
       "214798ba-40d8-4782-9dce-608d1e8a9650",
       "Left Driver"
+    ],
+    [
+      "a8345308-83ba-4225-aac4-5e8a07d19a13",
+      "User Control Panel"
+    ],
+    [
+      "e835fb18-0bd4-4d06-8360-fe8c0994bbe1",
+      "Serial Port"
+    ],
+    [
+      "163ffd6d-86f1-4d22-ab30-2c73e1bb52dc",
+      "Buzzer"
+    ],
+    [
+      "0722b500-cd4d-4654-b276-a4c4f9d1aa36",
+      "Button"
     ]
   ],
   "text_variables": {}
